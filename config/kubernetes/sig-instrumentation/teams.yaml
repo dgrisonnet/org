@@ -45,17 +45,18 @@ teams:
   kube-state-metrics-admins:
     description: Admin access to the kube-state-metrics repo
     members:
+    - CatherineF-dev
     - dashpole
     - dgrisonnet
-    - ehashman
-    - fpetkovski
-    - logicalhan
     - mrueg
+    - rexagod
+    - richabanker
     privacy: closed
   kube-state-metrics-maintainers:
     description: Write access to the kube-state-metrics repo
     members:
+    - CatherineF-dev
     - dgrisonnet
-    - fpetkovski
     - mrueg
+    - rexagod
     privacy: closed
